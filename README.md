@@ -1,8 +1,6 @@
 # K_Relay_Board
 LA2NI's OpenHPSDR 4 ways HF relay board (Kicad Version)
 
-# K_IO_Board
-
 
 OpenHPSDR P.A. Antenna switch board by LA2NI (Munin 400/Aries system)
 
@@ -10,9 +8,9 @@ OpenHPSDR P.A. Antenna switch board by LA2NI (Munin 400/Aries system)
 ![La carte antenne](https://github.com/F6ITU/K_Relay_Board/blob/main/switch_ant.jpg)
 
 
-This I/O board is part of a set consisting of a 400 W LDMos based RF power amplifier (Munin 400), 
+This relay board is part of a set consisting of a 400 W LDMos based RF power amplifier (Munin 400), 
 a medium power (600 or 1500 W) Zolotarev low pass filter, an Automatic Antenna Tuner (ATU) nickname « Aries » 
-and a 4 port antenna switch.
+and a 4 port antenna switch (this project).
 
 All these developments are the work and intellectual property of Kjell Karlsen LA2NI and Laurence Barker G8NJJ.
 
@@ -23,7 +21,9 @@ https://github.com/LA2NI/
 
 https://github.com/laurencebarker
 
-The I/O board ensures the physical link between the transceiver and the "Munin400/Aries" RF system
+The Antenna switch board ensures the switching between 4 antennas under the control of the Aries ATU board. Each of the connected antennas
+have a profile stored in the memory of the Aries MCU module. This way, switching from an antenna to the other don't need a new 
+tuning solution if the couple "frequency/antenna" has already been defined. 
 
 For more information, please refer to the Aries documentation (in the G8NJJ github repository)
 
