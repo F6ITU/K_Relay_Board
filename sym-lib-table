@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BNC_Amphenol_031-5329-51RFX")(type "KiCad")(uri "${KIPRJMOD}/Lib/BNC_Amphenol_031-5329-51RFX-Master/BNC_Amphenol_031-5329-51RFX/BNC_Amphenol_031-5329-51RFX.kicad_sym")(options "")(descr ""))
+  (lib (name "RELAY_G2R-1-E AC12")(type "KiCad")(uri "${KIPRJMOD}/Lib/RELAY_G2R-1-E AC12/RELAY_G2R-1-E AC12.kicad_sym")(options "")(descr ""))
+)
