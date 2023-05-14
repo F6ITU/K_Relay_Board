@@ -7,4 +7,5 @@
   (lib (name "TQ2-12V")(type "KiCad")(uri "${KIPRJMOD}/Lib/TQ2-12V")(options "")(descr ""))
   (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Lib/Conn_N-Master/Conn_N.pretty/Library.pretty")(options "")(descr ""))
   (lib (name "Conn_N")(type "KiCad")(uri "${KIPRJMOD}/Lib/Conn_N-Master/Conn_N.pretty")(options "")(descr ""))
+  (lib (name "Old Gerber")(type "KiCad")(uri "${KIPRJMOD}/Documentation/Old Gerber")(options "")(descr ""))
 )
