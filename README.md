@@ -7,6 +7,8 @@ OpenHPSDR P.A. Antenna switch board by LA2NI (Munin 400/Aries system)
 
 ![La carte antenne](https://github.com/F6ITU/K_Relay_Board/blob/main/switch_ant.jpg)
 
+![vue 3D virtuelle](https://github.com/F6ITU/K_Relay_Board/blob/main/switch_ant.jpg)
+
 
 This relay board is part of a set consisting of a 400 W LDMos based RF power amplifier (Munin 400), 
 a medium power (600 or 1500 W) Zolotarev low pass filter, an Automatic Antenna Tuner (ATU) nickname « Aries » 
@@ -38,7 +40,9 @@ Kicad is an Opensource EDA software maintained by the European Reseach Center CE
 The original work is protected by the TAPR Open Hardware licence
 
 
-# Work in progress
-do NOT use these files as long as this footnote hasn't been deleted
+# Work is RTM
+Design is considered as finished, no prototype have been assembled so far. This project is RTM without waranty 
+
 
 ![La carte antenne, verso](https://github.com/F6ITU/K_Relay_Board/blob/main/Antenna_board.jpg)
+![vue 3D virtuelle](https://github.com/F6ITU/K_Relay_Board/blob/main/switch_ant.jpg)

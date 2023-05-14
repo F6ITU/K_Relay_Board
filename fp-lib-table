@@ -8,4 +8,5 @@
   (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Lib/Conn_N-Master/Conn_N.pretty/Library.pretty")(options "")(descr ""))
   (lib (name "Conn_N")(type "KiCad")(uri "${KIPRJMOD}/Lib/Conn_N-Master/Conn_N.pretty")(options "")(descr ""))
   (lib (name "Old Gerber")(type "KiCad")(uri "${KIPRJMOD}/Documentation/Old Gerber")(options "")(descr ""))
+  (lib (name "Munin-master")(type "KiCad")(uri "${KIPRJMOD}/Lib/Munin-master")(options "")(descr ""))
 )
