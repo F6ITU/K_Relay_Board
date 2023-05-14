@@ -7,7 +7,7 @@ OpenHPSDR P.A. Antenna switch board by LA2NI (Munin 400/Aries system)
 
 ![La carte antenne](https://github.com/F6ITU/K_Relay_Board/blob/main/switch_ant.jpg)
 
-![vue 3D virtuelle](https://github.com/F6ITU/K_Relay_Board/blob/main/switch_ant.jpg)
+![vue 3D virtuelle](https://github.com/F6ITU/K_Relay_Board/blob/main/Documentation/relay_board_up.png)
 
 
 This relay board is part of a set consisting of a 400 W LDMos based RF power amplifier (Munin 400), 
@@ -45,4 +45,4 @@ Design is considered as finished, no prototype have been assembled so far. This 
 
 
 ![La carte antenne, verso](https://github.com/F6ITU/K_Relay_Board/blob/main/Antenna_board.jpg)
-![vue 3D virtuelle](https://github.com/F6ITU/K_Relay_Board/blob/main/switch_ant.jpg)
+![vue 3D virtuelle](https://github.com/F6ITU/K_Relay_Board/blob/main/Documentation/relay_board_dwn.png)
